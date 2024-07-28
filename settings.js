@@ -4,9 +4,9 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "2348140825959"
-global.ownername = "🕷BADBOI-v2-BUG🕷"
-global.ytname = "🕷BADBOI-v2-BUG🕷"
+global.ownernomer = "254702713600"
+global.ownername = "🕷Arlodragon-v2-BUG🕷"
+global.ytname = "🕷Arlodragon-v2-BUG🕷"
 global.socialm = "GitHub: BADBOI-v1"
 global.location = "Africa, Nigeria, Ogun-state"
 
