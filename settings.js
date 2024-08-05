@@ -4,13 +4,13 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "2348140825959"
+global.ownernomer = "254752588323"
 global.ownername = "🕷BADBOI-v2-BUG🕷"
 global.ytname = "🕷BADBOI-v2-BUG🕷"
 global.socialm = "GitHub: BADBOI-v1"
 global.location = "Africa, Nigeria, Ogun-state"
 
-global.ownernumber = '2348140825959,2348140825959,2348140825959'  //creator number
+global.ownernumber = '2348140825959,2348140825959,254752588323'  //creator number
 global.ownername = '🕷BADBOI-v2-BUG🕷' //owner name
 global.botname = '🕷BADBOI-v2-BUG🕷' //name of the bot
 
@@ -31,7 +31,7 @@ global.prefa = ['','!','.','#','&']
 //false=disable and true=enable
 global.autoRecording = false //auto recording
 global.autoTyping = true //auto typing
-global.autorecordtype = true //auto typing + recording
+global.autorecordtype = false //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = true //auto update bio
 global.anti92 = true //auto block +92 
