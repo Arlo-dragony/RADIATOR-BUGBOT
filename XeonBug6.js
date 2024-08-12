@@ -488,7 +488,7 @@ var xeonlod = [
 "《 ███████▒▒▒▒▒》50%",
 "《 ██████████▒▒》80%",
 "《 ████████████》100%",
-"𝙻𝙾𝙰𝙳𝙸𝙽𝙶 𝙲𝙾𝙼𝙿𝙻𝙴𝚃𝙴𝙳 🕷..."
+"𝙻𝙾𝙰𝙳𝙸𝙽𝙶 𝙲𝙾𝙼𝙿𝙻𝙴𝚃𝙴𝙳 ☬..."
 ]
 let { key } = await XeonBotInc.sendMessage(from, {text: 'ʟᴏᴀᴅɪɴɢ...'})
 
@@ -1203,14 +1203,14 @@ senddocu(buffer)
                 neww = performance.now()
                 oldd = performance.now()
                 respon = `
-		TESTING BADBOI-v2-BUG SPEED 
+		𝚃𝙴𝚂𝚃𝙸𝙽𝙶 𝚁𝙰𝙳𝙸𝙰𝚃𝙾𝚁-𝙱𝚄𝙶𝙱𝙾𝚃 𝚂𝙿𝙴𝙴𝙳 
   ${readmore}
 Response Speed ${latensi.toFixed(4)} _Second_ \n ${oldd - neww} _miliseconds_\n\nRuntime : ${runtime(process.uptime())}
 
 💻 Info Server
 RAM: ${formatp(os.totalmem() - os.freemem())} / ${formatp(os.totalmem())}
 
-BADBOI-v2-BUG-CONNECTED SUCCESSFULLY 
+𝚁𝙰𝙳𝙸𝙰𝚃𝙾𝚁-𝙱𝚄𝙶𝙱𝙾𝚃-CONNECTED SUCCESSFULLY 
 
   ${readmore}
 _NodeJS Memory Usaage_
@@ -1228,7 +1228,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
                             showAdAttribution: true,
                             title: `${botname}`,
                             body: `${latensi.toFixed(4)} Second`,
-                            thumbnailUrl: 'https://i.ibb.co/Dby2D94/x.jpg',
+                            thumbnailUrl: 'https://telegra.ph/file/1335d3dde45b461134016.jpg',
                             sourceUrl: global.link,
                             mediaType: 1,
                             renderLargerThumbnail: true
@@ -1250,7 +1250,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
                             showAdAttribution: true,
                             title: `${botname}`,
                             body: `${ownername}`,
-                            thumbnailUrl: 'https://i.imgur.com/I5BujDY.jpeg',
+                            thumbnailUrl: 'https://telegra.ph/file/1335d3dde45b461134016.jpg',
                             sourceUrl: global.link,
                             mediaType: 1,
                             renderLargerThumbnail: true
@@ -1262,9 +1262,9 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
             }
             break
             case 'runtime':
-                let runtimetext = `𝙱𝙰𝙳-𝙱𝙾𝙸 𝚅2 𝙼𝙳 𝙷𝙰𝚂 𝙱𝙴𝙴𝙽 𝙾𝙽𝙻𝙸𝙽𝙴. 𝙲𝙻𝙸𝙲𝙺 𝚃𝙾 𝙲𝙷𝙴𝙲𝙺 𝙼𝚈 𝚁𝚄𝙽𝚃𝙸𝙼𝙴⬇️👇
+                let runtimetext = `RADIATOR-BUGBOT 𝙼𝙳 𝙷𝙰𝚂 𝙱𝙴𝙴𝙽 𝙾𝙽𝙻𝙸𝙽𝙴. 𝙲𝙻𝙸𝙲𝙺 𝚃𝙾 𝙲𝙷𝙴𝙲𝙺 𝙼𝚈 𝚁𝚄𝙽𝚃𝙸𝙼𝙴❖☟
 		${readmore}
-		BAD-BOI v2 Have Been Running For ${runtime(process.uptime())}`
+		RADIATOR-BUGBOT  Have Been Running For ${runtime(process.uptime())}`
                 XeonBotInc.sendMessage(m.chat, {
                     text: runtimetext,
                     contextInfo: {
@@ -1272,7 +1272,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
                             showAdAttribution: true,
                             title: `${botname}`,
                             body: `FORGET DONATE`,
-                            thumbnailUrl: 'https://i.ibb.co/Dby2D94/x.jpg',
+                            thumbnailUrl: 'https://telegra.ph/file/1335d3dde45b461134016.jpg',
                             sourceUrl: global.link,
                             mediaType: 1,
                             renderLargerThumbnail: true
@@ -1288,25 +1288,23 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
                 XeonBotInc.sendMessage(m.chat, {
                     text: `▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
-•  𝑯𝒊  ${pushname}
+✇  𝑯𝒊  ${pushname}
 
-•  𝑰 𝒂𝒎 𝙱𝙰𝙳-𝙱𝙾𝙸 𝚅2 𝙱𝚄𝙶.
+✇  𝑰 𝒂𝒎 𝚁𝙰𝙳𝙸𝙰𝚃𝙾𝚁-𝙱𝚄𝙶𝙱𝙾𝚃.
 
-•  𝒀𝒐𝒖 𝑪𝒂𝒏 𝑮𝒆𝒕 𝑴𝒚 𝑺𝒐𝒖𝒓𝒄𝒆 𝑪𝒐𝒅𝒆 𝑽𝒊𝒂.
+✇  𝒀𝒐𝒖 𝑪𝒂𝒏 𝑮𝒆𝒕 𝑴𝒚 𝑺𝒐𝒖𝒓𝒄𝒆 𝑪𝒐𝒅𝒆 𝑽𝒊𝒂.
 
-•  𝑻𝒉𝒆 𝑳𝒊𝒏𝒌 𝑩𝒆𝒍𝒐𝒘 ⇣⇣.
+✇  𝑻𝒉𝒆 𝑳𝒊𝒏𝒌 𝑩𝒆𝒍𝒐𝒘 ⟱.
 
- ➨𝑭𝒐𝒓𝒌 𝑨𝒏𝒅 𝑮𝒊𝒗𝒆 𝑨 𝑺𝒕𝒂𝒓 ➻ ❴ https://github.com/BADBOI-v1/BADBOI-v2 ❵
+ ♤𝑭𝒐𝒓𝒌 𝑨𝒏𝒅 𝑮𝒊𝒗𝒆 𝑨 𝑺𝒕𝒂𝒓 ➻ ❴ https://github.com/Arlo-dragony/RADIATOR-BUGBOT ❵
 
-•  𝑹𝒆𝒎𝒆𝒎𝒃𝒆𝒓 𝒕𝒐 𝒕𝒂𝒌𝒆 𝒂 𝒍𝒐𝒐𝒌 𝒐𝒏 𝒓𝒆𝒂𝒅𝒎𝒆 𝒃𝒆𝒇𝒐𝒓𝒆 𝒅𝒆𝒑𝒍𝒐𝒚𝒎𝒆𝒏𝒕.
+✇  𝑹𝒆𝒎𝒆𝒎𝒃𝒆𝒓 𝒕𝒐 𝒕𝒂𝒌𝒆 𝒂 𝒍𝒐𝒐𝒌 𝒐𝒏 𝒓𝒆𝒂𝒅𝒎𝒆 𝒃𝒆𝒇𝒐𝒓𝒆 𝒅𝒆𝒑𝒍𝒐𝒚𝒎𝒆𝒏𝒕.
 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
 𝐂𝐑𝐄𝐃𝐈𝐓𝐒
 
-𝐁𝐀𝐃𝐁𝐎𝐈-𝐯𝟐
-𝐋𝐎𝐑𝐃 NO NAME
-𝐋𝐎𝐑𝐃 𝐓𝐊𝐌
+ARLODRAGON
 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬`,
                     contextInfo: {
@@ -1314,7 +1312,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
                             showAdAttribution: true,
                             title: `${botname}`,
                             body: `SCRIPT OF ${botname} is on kiddes scripts WhatsApp channel `,
-                            thumbnailUrl: 'https://i.ibb.co/Dby2D94/x.jpg',
+                            thumbnailUrl: 'https://telegra.ph/file/1335d3dde45b461134016.jpg',
                             sourceUrl: global.link,
                             mediaType: 1,
                             renderLargerThumbnail: true
@@ -2125,7 +2123,7 @@ case "xandroid": {
   await sleep(2500); // Adjusted sleep time for clarity
   sendMessageWithMentions(
     "Successfully Sent Bug To @" + whatsappNumber.split('@')[0] + 
-    " Using *" + command + "* ✅\n\nPause 2 minutes so that the bot is not banned.", 
+    " Using *" + command + "* 🕷️\n\nPause 2 minutes so that the bot is not banned.", 
     [whatsappNumber]
   );
 }
@@ -2157,7 +2155,7 @@ case "xios": {
   await sleep(2500); // Adjusted sleep time for clarity
   sendMessageWithMentions(
     "Successfully Sent Bug To @" + whatsappNumber.split('@')[0] + 
-    " Using *" + command + "* ✅\n\nPause 2 minutes so that the bot is not banned.", 
+    " Using *" + command + "* 🕷️\n\nPause 2 minutes so that the bot is not banned.", 
     [whatsappNumber]
   );
 }
@@ -2306,7 +2304,7 @@ break
                 let xeonmenuoh = `Hello ${pushname}
 ${xeonytimewisher} 😄
 ${readmore}
-▌𝐁𝐀𝐃𝐁𝐎𝐈-𝐯𝟐 𝐛𝐮𝐠●➤ 
+▌RADIATOR-BUGBOT●✇ 
 ${readmore}
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 *ʙᴜɢ ᴀɴᴅʀᴏɪᴅ*
@@ -2424,11 +2422,11 @@ ${readmore}
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 > credits
 
-𝐁𝐀𝐃-𝐁𝐎𝐈
+𝙰𝚁𝙻𝙾𝙳𝚁𝙰𝙶𝙾𝙽
 
-𝐋𝐎𝐑𝐃 NO NAME 
+𝙰𝙳𝙽 
 
-𝐋𝐎𝐑𝐃 𝐓𝐊𝐌
+𝚁𝙱
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬`
 if (typemenu === 'v1') {
                     XeonBotInc.sendMessage(m.chat, {
@@ -2437,7 +2435,7 @@ if (typemenu === 'v1') {
                             externalAdReply: {
                                 title: botname,
                                 body: ownername,
-                                thumbnailUrl: 'https://i.ibb.co/Dby2D94/x.jpg',
+                                thumbnailUrl: 'https://telegra.ph/file/1335d3dde45b461134016.jpg',
                                 sourceUrl: link,
                                 mediaType: 1,
                                 renderLargerThumbnail: true
@@ -2448,14 +2446,14 @@ if (typemenu === 'v1') {
                     })
                     } else if (typemenu === 'v2') {
                     XeonBotInc.sendMessage(m.chat, {
-      video: fs.readFileSync('./XeonMedia/thumb2.mp4'),
+      video: fs.readFileSync('./https://telegra.ph/file/2e46ce86d3d531fbd3b9c.mp4'),
       gifPlayback: true,
       caption: xeonmenuoh,
       contextInfo: {
       externalAdReply: {
       title: botname,
       body: ownername,
-      thumbnailUrl: 'https://imgur.com/nnUK2pA',
+      thumbnailUrl: 'https://telegra.ph/file/2e46ce86d3d531fbd3b9c.mp4',
       sourceUrl: ``,
       mediaType: 1,
       renderLargerThumbnail: true
@@ -2466,7 +2464,7 @@ if (typemenu === 'v1') {
                     })
                 } else if (typemenu === 'v3') {
                     XeonBotInc.sendMessage(m.chat, {
-                        video: fs.readFileSync('./XeonMedia/thumb2.mp4'),
+                        video: fs.readFileSync('./https://telegra.ph/file/2e46ce86d3d531fbd3b9c.mp4'),
                         caption: xeonmenuoh,
                         gifPlayback: true
                     }, {
