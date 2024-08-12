@@ -1,13 +1,13 @@
-# BADBOI-v2
+# RADIATOR BUGBOT 
    ## Hi there 👋
 
-<h1 align="center">ꪶBADBOI-v2 BUGꫂ<br></h1>
+<h1 align="center">☬𝚁𝙰𝙳𝙸𝙰𝚃𝙾𝚁 𝙱𝚄𝙶𝙱𝙾𝚃☬<br></h1>
 <p align="center">
-<img src="https://telegra.ph/file/2fc766ab7467ded0fac9c.png" />
+<img src="https://telegra.ph/file/16800f718dad3ed52d516.jpg" />
 </p>
 
 <p align="center">
-BADBOI-v2 𝘽𝙤𝙩 Multi Device is a whatsapp bot created by <a href="https://github.com/BADBOI-v1" target="_blank">BADBOI</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
+𝚁𝙰𝙳𝙸𝙰𝚃𝙾𝚁 𝙱𝚄𝙶𝙱𝙾𝚃 𝘽𝙤𝙩 Multi Device is a whatsapp bot created by <a href="https://github.com/BADBOI-v1" target="_blank">BADBOI</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
 </p>
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+_____BADBOI+v2_____;WHATSAPP+CRASH+x+BUG+BOT;DEVELOPED+BY+BAD+BOI;REALESE+DATE+14%2F7%2F2024." alt="Typing SVG" /></a>
