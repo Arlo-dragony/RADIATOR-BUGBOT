@@ -14,8 +14,8 @@
 </p>
 # ```Bot Info```
 <p align="center">
-<a href="https://github.com/BADBOI-v1/followers"><img title="Followers" src="https://img.shields.io/github/followers/BADBOI-v1?color=red&style=flat-square"></a>
-<a href="https://github.com/BADBOI-v1/BADBOI-v2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/BADBOI-v1/BADBOI-v2?color=blue&style=flat-square"></a>
+<a href="https://github.com/RADIATOR-BUGBOT/followers"><img title="Followers" src="https://img.shields.io/github/followers/RADIATOR-BUGBOT?color=red&style=flat-square"></a>
+<a href="https://github.com/RADIATOR-BUGBOT/RADIATOR-BUGBOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/RADIATOR-BUGBOT/RADIATOR-BUGBOT?color=blue&style=flat-square"></a>
 <a href="https://github.com/BADBOI-v1/BADBOI-v2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/BADBOI-v1/BADBOI-v2?color=red&style=flat-square"></a>
 <a href="https://github.com/BADBOI-v1/BADBOI-v2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/BADBOI-v1/BADBOI-v2?label=Watchers&color=blue&style=flat-square"></a>
 <a href="https://github.com/BADBOI-v1/BADBOI-v2"><img title="Open Source" src="https://img.shields.io/badge/Author-BADBOI%20Bot%20Inc.-red?v=103"></a>
@@ -26,7 +26,7 @@
 
 ### If you want to deploy somewhere else, upload your creds.json in session folder after getting pair code on replit or render. 
 
-### 1. <a href="https://github.com/BADBOI-v1/BADBOI-v2/fork"><img src="https://img.shields.io/badge/FORK-blue" alt="Click Here to fork BADBOI-v2" width="70"></a>
+### 1. <a href="https://github.com/Arlo-dragony/RADIATOR-BUGBOT/fork"><img src="https://img.shields.io/badge/FORK-blue" alt="Click Here to fork BADBOI-v2" width="70"></a>
 ## `Generate Pair Code For Session`
  
 [`Badboi-v2 Pairing Using Render`](https://badboi.onrender.com/)
