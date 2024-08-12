@@ -196,17 +196,17 @@ npm i -g forever && forever index.js && forever save && forever logs
 ## 🎯 Authors 🎯
   <div align="center">
   
-| [![ARLODRAGON](https://github.com/BADBOI-v1.png?size=150)](https://github.com/BADBOI-v1) |
+| [![ARLODRAGON](https://github.com/Arlo-dragony/RADIATOR-BUGBOT.png?size=150)](https://github.com/BADBOI-v1) |
 |----|
-| [  Badboi Hacker](https://github.com/BADBOI-v1) |
+| [ ARLODRAGON](https://github.com/Arlo-dragony/RADIATOR-BUGBOT) |
 |  Developer |
 
   </div>
   <div align="center">
   
-| [![Tᴀɪʀᴀ Mᴀᴋɪɴᴏ](https://github.com/Anime-King01.png?size=150)](https://github.com/Anime-King01) |
+| [![DRAGON](https://github.com/Arlo-dragony/RADIATOR-BUGBOT.png?size=150)](https://github.com/Arlo-dragony/RADIATOR-BUGBOT) |
 |----|
-| [  Lord No Name](https://github.com/Anime-King01) |
+| [  Lord No Name](https://github.com/Arlo-dragony/RADIATOR-BUGBOT) |
 |  Co-Developer |
 
   </div>
@@ -224,7 +224,7 @@ npm i -g forever && forever index.js && forever save && forever logs
   
    ## `Special Thanks To`
 
-* [`📕 Lord No Name..!!`](https://github.com/Anime-King01)
+* [`📕 Lord No Name..!!`](https://github.com/Arlo-dragony/RADIATOR-BUGBOT)
 * * [`📕 Cod3Uchiha`](https://github.com/Cod3Uchiha)
  
   * ⧉ 𝐓𝐇𝐀𝐍𝐊𝐒 𝐅𝐎𝐑 𝐓𝐇𝐄 𝐒𝐔𝐏𝐏𝐎𝐑𝐓 ⧉
