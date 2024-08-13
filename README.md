@@ -3,7 +3,7 @@
 
 <h1 align="center">☬𝚁𝙰𝙳𝙸𝙰𝚃𝙾𝚁 𝙱𝚄𝙶𝙱𝙾𝚃☬<br></h1>
 <p align="center">
-<img src="https://telegra.ph/file/1335d3dde45b461134016.jpg" />
+<img src="https://telegra.ph/file/6b47a3a304b0f1b13996a.jpg" />
 </p>
 
 <p align="center">
