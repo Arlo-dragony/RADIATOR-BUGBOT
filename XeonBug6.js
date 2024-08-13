@@ -2435,7 +2435,7 @@ if (typemenu === 'v1') {
                             externalAdReply: {
                                 title: botname,
                                 body: ownername,
-                                thumbnailUrl: 'https://telegra.ph/file/1335d3dde45b461134016.jpg',
+                                thumbnailUrl: 'https://i.ibb.co/Dby2D94/x.jpg',
                                 sourceUrl: link,
                                 mediaType: 1,
                                 renderLargerThumbnail: true
@@ -2446,7 +2446,7 @@ if (typemenu === 'v1') {
                     })
                     } else if (typemenu === 'v2') {
                     XeonBotInc.sendMessage(m.chat, {
-      video: fs.readFileSync('./https://telegra.ph/file/2e46ce86d3d531fbd3b9c.mp4'),
+      video: fs.readFileSync('./XeonMedia/thumb2.mp4'),
       gifPlayback: true,
       caption: xeonmenuoh,
       contextInfo: {
@@ -2464,7 +2464,7 @@ if (typemenu === 'v1') {
                     })
                 } else if (typemenu === 'v3') {
                     XeonBotInc.sendMessage(m.chat, {
-                        video: fs.readFileSync('./https://telegra.ph/file/2e46ce86d3d531fbd3b9c.mp4'),
+                        video: fs.readFileSync('https://telegra.ph/file/2e46ce86d3d531fbd3b9c.mp4'),
                         caption: xeonmenuoh,
                         gifPlayback: true
                     }, {
