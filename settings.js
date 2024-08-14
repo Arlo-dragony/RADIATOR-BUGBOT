@@ -30,8 +30,8 @@ global.prefa = ['','!','.','#','&']
 
 //false=disable and true=enable
 global.autoRecording = false //auto recording
-global.autoTyping = true //auto typing
-global.autorecordtype = false //auto typing + recording
+global.autoTyping = false //auto typing
+global.autorecordtype = true //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = true //auto update bio
 global.anti92 = true //auto block +92 
@@ -42,7 +42,7 @@ global.autoswview = true //auto view status/story
 //v2 is link + image menu,
 //v3 is video menu,
 //v4 is call end menu
-global.typemenu = 'v2'
+global.typemenu = 'v1'
 
 //text bug
 global.xbugtex = {
