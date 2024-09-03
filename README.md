@@ -2,7 +2,7 @@
    ## Hi there 👋
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+_____𝚁𝙰𝙳𝙸𝙰𝚃𝙾𝚁+𝙱𝚄𝙶𝙱𝙾𝚃_____;WHATSAPP+CRASH+x+BUG+BOT;DEVELOPED+BY+𝙰𝚁𝙻𝙾+𝙳𝚁𝙰𝙶𝙾𝙽;FORK+AND+12%2F8%2FSTAR." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+_____𝚁𝙰𝙳𝙸𝙰𝚃𝙾𝚁+𝙱𝚄𝙶𝙱𝙾𝚃_____;WHATSAPP+CRASH+x+BUG+BOT;DEVELOPED+BY+𝙰𝚁𝙻𝙾+𝙳𝚁𝙰𝙶𝙾𝙽;FORK+AND+STAR%2FMY%2FREPO." alt="Typing SVG" /></a>
 <p align="center">
 <img src="https://telegra.ph/file/3422474d038dbc14016ed.jpg" />
 </p>
