@@ -36,7 +36,7 @@ const { xeontext9 } = require('./69/xeontext9')
 const { xeontext10 } = require('./69/xeontext10')
 const wkwk = fs.readFileSync(`./69/x.mp3`)
 const xsteek = fs.readFileSync(`./69/1723827340548.jpg`)
-const o = fs.readFileSync(`./69/o.jpg`)
+const o = fs.readFileSync(`./69/1723827358575.jpg`)
 
 //database
 let premium = JSON.parse(fs.readFileSync('./database/premium.json'))
