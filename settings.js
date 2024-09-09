@@ -11,7 +11,7 @@ global.socialm = "GitHub: Arlo-dragony"
 global.location = "Africa, Kenya, Bomet"
 
 global.ownernumber = '254746764468,254702713600,254746764468'  //creator number
-global.ownername = '❖RADIATOR-BUGBOT❖' //owner name
+global.ownername = '❖ARLODRAGON❖' //owner name
 global.botname = '🚨 RADIATOR-BUGBOT 🚨' //name of the bot
 
 //sticker details
