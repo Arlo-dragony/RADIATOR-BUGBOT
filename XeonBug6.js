@@ -2464,7 +2464,7 @@ if (typemenu === 'v1') {
                     })
                 } else if (typemenu === 'v3') {
                     XeonBotInc.sendMessage(m.chat, {
-                        video: fs.readFileSync('https://telegra.ph/file/2e46ce86d3d531fbd3b9c.mp4'),
+                        video: fs.readFileSync('https://telegra.ph/file/cc872e19bc191d8fea29c.mp4'),
                         caption: xeonmenuoh,
                         gifPlayback: true
                     }, {
