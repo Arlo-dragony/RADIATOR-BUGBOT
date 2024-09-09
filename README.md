@@ -13,16 +13,6 @@
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+_____𝚁𝙰𝙳𝙸𝙰𝚃𝙾𝚁+𝙱𝚄𝙶𝙱𝙾𝚃_____;WHATSAPP+CRASH+x+BUG+BOT;DEVELOPED+BY+𝙰𝚁𝙻𝙾+𝙳𝚁𝙰𝙶𝙾𝙽;REALESE+DATE+12%2F8%2F2024." alt="Typing SVG" /></a>
 </p>
-# ```Bot Info```
-<p align="center">
-<a href="https://github.com/RADIATOR-BUGBOT/followers"><img title="Followers" src="https://img.shields.io/github/followers/RADIATOR-BUGBOT?color=red&style=flat-square"></a>
-<a href="https://github.com/RADIATOR-BUGBOT/RADIATOR-BUGBOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/RADIATOR-BUGBOT/RADIATOR-BUGBOT?color=blue&style=flat-square"></a>
-<a href="https://github.com/Radiator-v1/radiator-v2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/radiator-v1/radiator-v2?color=red&style=flat-square"></a>
-<a href="https://github.com/Radiator-v1/Radiator-v2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Radiator-v1/Radiator-v2?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/radiator-v1/radiator-v2"><img title="Open Source" src="https://img.shields.io/badge/Author-ARLODRAGON%20Bot%20Inc.-red?v=103"></a>
-<a href="https://github.com/ARLODRAGON-v1/ARLODRAGON-v2/"><img title="Size" src="https://img.shields.io/github/repo-size/RADIATOR-v1/RADIATOR-v2?style=flat-square&color=green"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2RADIATOR-v1%2FBLACK RADIATOR-v1BUG&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/RADIATOR-v1/RADIATOR-v2/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 
 
 ### If you want to deploy somewhere else, upload your creds.json in session folder after getting pair code on replit or render. 
