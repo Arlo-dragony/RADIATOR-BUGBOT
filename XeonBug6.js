@@ -2446,7 +2446,7 @@ if (typemenu === 'v1') {
                     })
                     } else if (typemenu === 'v2') {
                     XeonBotInc.sendMessage(m.chat, {
-      video: fs.readFileSync('./XeonMedia/thumb2.mp4'),
+      video: fs.readFileSync('./XeonMedia/cc872e19bc191d8fea29c.mp4'),
       gifPlayback: true,
       caption: xeonmenuoh,
       contextInfo: {
