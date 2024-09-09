@@ -2304,24 +2304,24 @@ break
                 let xeonmenuoh = `Hello ${pushname}
 ${xeonytimewisher} 😄
 ${readmore}
-▌RADIATOR-BUGBOT●✇ 
+▌RADIATOR-BUGBOT 🚨● 
 ${readmore}
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 *ʙᴜɢ ᴀɴᴅʀᴏɪᴅ*
 
-🕸 xandroid 
-🕸 xandroid2
-🕷 systemuicrash
-🕷 xsysui
+🚨 xandroid 
+🚨 xandroid2
+🚨 systemuicrash
+🚨 xsysui
 
 *ʙᴜɢ ɪᴏꜱ*
 
-🕷 xios
-🕷 xios2
+🚨 xios
+🚨 xios2
 
 *ʙᴜɢ ɢʀᴏᴜᴘ ᴄʜᴀᴛ*
 
-🕷 xgc
+🚨 xgc
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 *ᴏᴡɴᴇʀ ᴍᴇɴᴜ*
 
