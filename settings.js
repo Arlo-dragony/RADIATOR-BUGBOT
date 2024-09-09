@@ -5,14 +5,14 @@ const chalk = require('chalk')
 
 //contact details
 global.ownernomer = "254746764468"
-global.ownername = "☬RADIATOR-BUGBOT☬"
-global.ytname = "❖RADIATOR-BUGBOT❖"
+global.ownername = "🚨 RADIATOR-BUGBOT 🚨"
+global.ytname = "🚨 RADIATOR-BUGBOT 🚨"
 global.socialm = "GitHub: Arlo-dragony"
 global.location = "Africa, Kenya, Bomet"
 
 global.ownernumber = '254746764468,254702713600,254746764468'  //creator number
 global.ownername = '❖RADIATOR-BUGBOT❖' //owner name
-global.botname = '❖RADIATOR-BUGBOT❖' //name of the bot
+global.botname = '🚨 RADIATOR-BUGBOT 🚨' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
@@ -42,7 +42,7 @@ global.autoswview = true //auto view status/story
 //v2 is link + image menu,
 //v3 is video menu,
 //v4 is call end menu
-global.typemenu = 'v1'
+global.typemenu = 'v3'
 
 //text bug
 global.xbugtex = {
