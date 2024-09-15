@@ -16,11 +16,11 @@ global.botname = '🚨 RADIATOR-BUGBOT 🚨' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'ARLODRAGON DRAGON\n\nContact: +254702713600'
+global.author = 'ARLODRAGON\n\nContact: +254702713600'
 
 //console view/theme
 global.themeemoji = '🐉'
-global.wm = "SIR DRAGON Tech."
+global.wm = "SIR DRAGON."
 
 //theme link
 global.link = 'https://whatsapp.com/channel/0029VaNPPwR30LKQk437x51Q'
