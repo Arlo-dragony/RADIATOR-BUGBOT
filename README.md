@@ -20,9 +20,9 @@
 ### 1. <a href="https://github.com/Arlo-dragony/RADIATOR-BUGBOT/fork"><img src="https://img.shields.io/badge/FORK-blue" alt="Click Here to fork BADBOI-v2" width="70"></a>
 ## `Generate Pair Code For Session`
  
-[`RADIATOR-BUGBOT PAIRING USING RENDER`](https://radiator-codes-caf19f48b507.herokuapp.com/pair)
+[`RADIATOR-BUGBOT PAIRING USING RENDER`](https://tiger-radioactive-f1508ee3c04c.herokuapp.com/pair)
 
-[`𝚁𝙰𝙳𝙸𝙰𝚃𝙾𝚁 𝙱𝚄𝙶𝙱𝙾𝚃 Pairing using Replit`](https://radiator-codes-caf19f48b507.herokuapp.com/pair)
+[`𝚁𝙰𝙳𝙸𝙰𝚃𝙾𝚁 𝙱𝚄𝙶𝙱𝙾𝚃 Pairing using Replit`](https://tiger-radioactive-f1508ee3c04c.herokuapp.com/pair)
 
 
 ### . <a href="https://pylexnodes.net"><img src="https://img.shields.io/badge/DEPLOY ON PANEL-black" alt="Click Here to Deploy on Panel" width="120"></a>
